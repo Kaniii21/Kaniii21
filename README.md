@@ -6,9 +6,9 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd0bGo3a2g4b2N4MDMzc3hmemN0a2FjcmpyYWQ1c2RpMzJ0ajMzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaniii21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-   <img src="https://leetcode.card.workers.dev/Kaniii21?theme=dark&font=baloo&extension=null" height="150"  alt="leetcode card"/>
+  <img height="100" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHd0bGo3a2g4b2N4MDMzc3hmemN0a2FjcmpyYWQ1c2RpMzJ0ajMzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaniii21&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="100" alt="languages graph"  />
+   <img src="https://leetcode.card.workers.dev/Kaniii21?theme=dark&font=baloo&extension=null" height="100"  alt="leetcode card"/>
 </div>
 
 ###

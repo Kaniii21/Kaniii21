@@ -1,6 +1,6 @@
 <h1 align="left">Hi!👋This is Kanika</h1>
 <h2 aliign="left">About me</h2>
-<p>Hi, I'm Kanika Barik, a student passionate about developing Java, Android, AI, and Cloud technologies. Currently a Bachelor's student in the department of Computer Science And IT, learning and exploring the world of tech and its endless possibilities. Connect with me on LinkedIn to learn more!
+<p>Hi, I'm Kanika Barik, a student passionate about Software Development. Some of my key strengths include working with Web,Java, Android, AI, and Cloud technologies. Currently a Bachelor's student in the department of Computer Science And IT, learning and exploring the world of tech and its endless possibilities. Connect with me on LinkedIn to learn more!
 </p>
 
 ###
